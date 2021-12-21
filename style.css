@@ -1,0 +1,32 @@
+.copy_right_footer{
+    position: fixed;
+    color: khaki;
+    bottom: 0;
+    width: 100%;
+    background-color: navajowhite;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid lawngreen;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px purple;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px dimgray;
+}
+
+.note{
+    font-size: 15px;
+    color: peru;
+}
+body
+{
+background: url('https://thumbs.dreamstime.com/z/abc-alphabet-background-colorful-white-64449354.jpg'); 
+}
